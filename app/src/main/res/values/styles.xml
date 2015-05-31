@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="txt_header" parent="android:Widget.TextView">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/txt_header_size</item>
+    </style>
+
+    <style name="txt_value" parent="android:Widget.TextView">
+        <item name="android:textSize">@dimen/txt_header_size</item>
+    </style>
+
+</resources>

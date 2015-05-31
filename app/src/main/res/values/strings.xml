@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Temperature app</string>
+    <string name="loading_str">Loading&#8230;</string>
+    <string name="no_conn">No conn.</string>
+    <string name="txt_header_berlin">BERLIN</string>
+    <string name="berlin_des">Berlin,de</string>
+    <string name="txt_header_paris">PARIS</string>
+    <string name="paris_des">Paris,fr</string>
+    <string name="txt_header_la">LOS ANGELES</string>
+    <string name="la_des">LA,usa</string>
+    <string name="action_reload">Reload</string>
+</resources>
